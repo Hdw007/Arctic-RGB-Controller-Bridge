@@ -1,7 +1,7 @@
 # Arctic Bridge
 
 A Python script that bridges WLED UDP protocols (WARLS, DRGB, DNRGB, DDP) to the Arctic RGB controller via Serial. This allows you to control your Arctic RGB Controller using SignalRGB instead of Arctic RGB Master.
-It might work with other software that can control WLED instances but Ive only tested SignalRGB.
+It might work with other software that can control WLED instances but I have only tested SignalRGB.
 
 ## Requirements
 
