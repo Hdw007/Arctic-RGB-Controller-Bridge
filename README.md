@@ -36,6 +36,6 @@ py -m PyInstaller --onefile --noconsole arctic_bridge.py
 ## SignalRGB Configuration
 
 1. Open SignalRGB and add a new WLED instance with the IP 127.0.0.1
-2. Once the connection has been established, naviaget to the new WLED device configure four seperate 1-LED strips, each strip will correspond to one of the controllers outputs
+2. Once the connection has been established, navigate to the new WLED devicen and configure four seperate 1-LED strips, each strip will correspond to one of the controllers outputs
 3. The lights connected to your Arctic controller should now be synced to the rest of your setup
 4. Troubleshooting: Run the script / executable with ```--console``` to check for any errors
